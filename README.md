@@ -19,3 +19,5 @@ most important part. Add your answer to this markdown file.
 
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
+
+Analysis: he time complexity of the convertToAdjList function is O(v^2) and it depends on the number of vertices. The number of edges does not influence the time complexity.
